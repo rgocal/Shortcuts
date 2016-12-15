@@ -1,0 +1,1609 @@
+[
+    {
+        "outputFile": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mr\\values-mr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 14,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endLine": 9,
+                        "endColumn": 14,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 109,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 109,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 195,
+                    "endOffset": 806
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 195,
+                        "endOffset": 641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 811,
+                    "endColumn": 125,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 646,
+                        "endColumn": 125,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endColumn": 113,
+                    "endOffset": 1046
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 113,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1051,
+                    "endColumn": 204,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endColumn": 204,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 208,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 208,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 122,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 122,
+                        "endOffset": 1418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endColumn": 128,
+                    "endOffset": 1712
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1423,
+                        "endColumn": 128,
+                        "endOffset": 1547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1717,
+                    "endColumn": 236,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 236,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1954,
+                    "endColumn": 247,
+                    "endOffset": 2197
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1552,
+                        "endColumn": 247,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2202,
+                    "endColumn": 119,
+                    "endOffset": 2317
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1800,
+                        "endColumn": 119,
+                        "endOffset": 1915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2322,
+                    "endColumn": 112,
+                    "endOffset": 2430
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1920,
+                        "endColumn": 112,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2435,
+                    "endColumn": 184,
+                    "endOffset": 2615
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2033,
+                        "endColumn": 184,
+                        "endOffset": 2213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2620,
+                    "endColumn": 128,
+                    "endOffset": 2744
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2218,
+                        "endColumn": 128,
+                        "endOffset": 2342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2749,
+                    "endColumn": 200,
+                    "endOffset": 2945
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2347,
+                        "endColumn": 200,
+                        "endOffset": 2543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2950,
+                    "endColumn": 135,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2548,
+                        "endColumn": 135,
+                        "endOffset": 2679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 185,
+                    "endOffset": 3267
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2684,
+                        "endColumn": 185,
+                        "endOffset": 2865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3272,
+                    "endColumn": 89,
+                    "endOffset": 3357
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2870,
+                        "endColumn": 89,
+                        "endOffset": 2955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3362,
+                    "endColumn": 95,
+                    "endOffset": 3453
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2960,
+                        "endColumn": 95,
+                        "endOffset": 3051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3458,
+                    "endColumn": 109,
+                    "endOffset": 3563
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-mr\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3056,
+                        "endColumn": 109,
+                        "endOffset": 3161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3568,
+                    "endColumn": 53,
+                    "endOffset": 3617
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3622,
+                    "endColumn": 55,
+                    "endOffset": 3673
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 55,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3678,
+                    "endColumn": 65,
+                    "endOffset": 3739
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 65,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3744,
+                    "endColumn": 98,
+                    "endOffset": 3838
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 98,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3843,
+                    "endColumn": 92,
+                    "endOffset": 3931
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 92,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3936,
+                    "endColumn": 126,
+                    "endOffset": 4058
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 126,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4063,
+                    "endColumn": 114,
+                    "endOffset": 4173
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 114,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4178,
+                    "endColumn": 57,
+                    "endOffset": 4231
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 57,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4236,
+                    "endColumn": 62,
+                    "endOffset": 4294
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 62,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4299,
+                    "endColumn": 68,
+                    "endOffset": 4363
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endColumn": 68,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4368,
+                    "endColumn": 71,
+                    "endOffset": 4435
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 71,
+                        "endOffset": 922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4440,
+                    "endColumn": 48,
+                    "endOffset": 4484
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 927,
+                        "endColumn": 48,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4489,
+                    "endColumn": 49,
+                    "endOffset": 4534
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 976,
+                        "endColumn": 49,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4539,
+                    "endColumn": 69,
+                    "endOffset": 4604
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endColumn": 69,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4609,
+                    "endColumn": 72,
+                    "endOffset": 4677
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 72,
+                        "endOffset": 1164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4682,
+                    "endColumn": 73,
+                    "endOffset": 4751
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1169,
+                        "endColumn": 73,
+                        "endOffset": 1238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4756,
+                    "endColumn": 81,
+                    "endOffset": 4833
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 81,
+                        "endOffset": 1320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4838,
+                    "endColumn": 80,
+                    "endOffset": 4914
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1325,
+                        "endColumn": 80,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4919,
+                    "endColumn": 71,
+                    "endOffset": 4986
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 71,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4991,
+                    "endColumn": 96,
+                    "endOffset": 5083
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 96,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5088,
+                    "endColumn": 51,
+                    "endOffset": 5135
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1575,
+                        "endColumn": 51,
+                        "endOffset": 1622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5140,
+                    "endColumn": 46,
+                    "endOffset": 5182
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endColumn": 46,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5187,
+                    "endColumn": 66,
+                    "endOffset": 5249
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1674,
+                        "endColumn": 66,
+                        "endOffset": 1736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5254,
+                    "endColumn": 72,
+                    "endOffset": 5322
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1741,
+                        "endColumn": 72,
+                        "endOffset": 1809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5327,
+                    "endColumn": 92,
+                    "endOffset": 5415
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1814,
+                        "endColumn": 92,
+                        "endOffset": 1902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5420,
+                    "endColumn": 82,
+                    "endOffset": 5498
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1907,
+                        "endColumn": 82,
+                        "endOffset": 1985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5503,
+                    "endColumn": 85,
+                    "endOffset": 5584
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1990,
+                        "endColumn": 85,
+                        "endOffset": 2071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5589,
+                    "endColumn": 76,
+                    "endOffset": 5661
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2076,
+                        "endColumn": 76,
+                        "endOffset": 2148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5666,
+                    "endColumn": 53,
+                    "endOffset": 5715
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2153,
+                        "endColumn": 53,
+                        "endOffset": 2202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5720,
+                    "endColumn": 58,
+                    "endOffset": 5774
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2207,
+                        "endColumn": 58,
+                        "endOffset": 2261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5779,
+                    "endColumn": 300,
+                    "endOffset": 6075
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2266,
+                        "endColumn": 300,
+                        "endOffset": 2562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6080,
+                    "endColumn": 347,
+                    "endOffset": 6423
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2567,
+                        "endColumn": 347,
+                        "endOffset": 2910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6428,
+                    "endColumn": 215,
+                    "endOffset": 6639
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2915,
+                        "endColumn": 215,
+                        "endOffset": 3126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6644,
+                    "endColumn": 331,
+                    "endOffset": 6971
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 3131,
+                        "endColumn": 331,
+                        "endOffset": 3458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6976,
+                    "endColumn": 263,
+                    "endOffset": 7235
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3463,
+                        "endColumn": 263,
+                        "endOffset": 3722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7240,
+                    "endColumn": 381,
+                    "endOffset": 7617
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3727,
+                        "endColumn": 381,
+                        "endOffset": 4104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7622,
+                    "endColumn": 62,
+                    "endOffset": 7680
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 4109,
+                        "endColumn": 62,
+                        "endOffset": 4167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7685,
+                    "endColumn": 101,
+                    "endOffset": 7782
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 4172,
+                        "endColumn": 101,
+                        "endOffset": 4269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7787,
+                    "endColumn": 95,
+                    "endOffset": 7878
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4274,
+                        "endColumn": 95,
+                        "endOffset": 4365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7883,
+                    "endColumn": 102,
+                    "endOffset": 7981
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4370,
+                        "endColumn": 102,
+                        "endOffset": 4468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7986,
+                    "endColumn": 77,
+                    "endOffset": 8059
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4473,
+                        "endColumn": 77,
+                        "endOffset": 4546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8064,
+                    "endColumn": 99,
+                    "endOffset": 8159
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4551,
+                        "endColumn": 99,
+                        "endOffset": 4646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8164,
+                    "endColumn": 378,
+                    "endOffset": 8538
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4651,
+                        "endColumn": 378,
+                        "endOffset": 5025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8543,
+                    "endColumn": 63,
+                    "endOffset": 8602
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 5030,
+                        "endColumn": 63,
+                        "endOffset": 5089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8607,
+                    "endColumn": 107,
+                    "endOffset": 8710
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 5094,
+                        "endColumn": 107,
+                        "endOffset": 5197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8715,
+                    "endColumn": 57,
+                    "endOffset": 8768
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8773,
+                    "endColumn": 57,
+                    "endOffset": 8826
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 57,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8831,
+                    "endColumn": 61,
+                    "endOffset": 8888
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 61,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8893,
+                    "endColumn": 64,
+                    "endOffset": 8953
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 64,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8958,
+                    "endColumn": 67,
+                    "endOffset": 9021
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 67,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9026,
+                    "endColumn": 57,
+                    "endOffset": 9079
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 57,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9084,
+                    "endColumn": 41,
+                    "endOffset": 9121
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 41,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9126,
+                    "endColumn": 41,
+                    "endOffset": 9163
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 41,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 9168,
+                    "endColumn": 45,
+                    "endOffset": 9209
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 45,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 9214,
+                    "endColumn": 83,
+                    "endOffset": 9293
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 83,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 9298,
+                    "endColumn": 112,
+                    "endOffset": 9406
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 112,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 9411,
+                    "endColumn": 280,
+                    "endOffset": 9687
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 280,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 9692,
+                    "endColumn": 75,
+                    "endOffset": 9763
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 75,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9768,
+                    "endColumn": 77,
+                    "endOffset": 9841
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 77,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 9846,
+                    "endColumn": 58,
+                    "endOffset": 9900
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 58,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9905,
+                    "endColumn": 75,
+                    "endOffset": 9976
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-mr\\values-mr.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 75,
+                        "endOffset": 1175
+                    }
+                }
+            }
+        ]
+    }
+]

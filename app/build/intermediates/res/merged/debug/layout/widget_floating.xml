@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center|top"
+    android:id="@+id/whole_view">
+
+    <RelativeLayout
+        android:elevation="19dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:id="@+id/whole_widget_view"
+            android:layout_width="323dp"
+            android:layout_height="133dp"
+            android:padding="3dp"
+            android:elevation="19dp"
+            android:background="#1AFFFFFF">
+            <RelativeLayout
+                android:id="@+id/widget"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:layout_alignParentBottom="true"
+                android:elevation="29dp"
+                android:gravity="center"
+                android:background="#1AFFFFFF"/>
+            <TextView
+                android:id="@+id/label"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:text="@string/app_name"
+                android:textStyle="bold"
+                android:textSize="17sp"
+                android:textColor="@android:color/black"/>
+            <ImageView
+                android:id="@+id/icon"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:padding="1dp"
+                android:src="@drawable/ic_launcher"/>
+            <Button
+                android:id="@+id/close"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="1dp"
+                android:background="@drawable/draw_close"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

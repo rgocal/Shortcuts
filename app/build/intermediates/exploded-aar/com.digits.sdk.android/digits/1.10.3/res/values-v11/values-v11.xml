@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Digits_default" parent="@android:style/Theme.Holo.Light">
+        <item name="dgts__accentColor">@color/dgts__default_accent</item>
+    </style>
+</resources>

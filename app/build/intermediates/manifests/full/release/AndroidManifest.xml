@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.geekstools.floatshort"
+    android:versionCode="24"
+    android:versionName="4.200.00.24r_ALPHA" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.LOCATION_HARDWARE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="net.geekstools.floatshort.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="net.geekstools.floatshort.permission.C2D_MESSAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_agent"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_launch"
+        android:largeHeap="true"
+        android:theme="@android:style/Theme.DeviceDefault.Light" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="ec3d096cb61383a1c67769cfa9b37b4ce74e0c34" />
+
+        <activity
+            android:name="net.geekstools.floatshort.ListGrid"
+            android:theme="@android:style/Theme.NoDisplay" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.GridViewDrawer"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.DeviceDefault.Wallpaper" >
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.MainScope"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.DeviceDefault.Wallpaper" >
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.WidgetHandler"
+            android:theme="@android:style/Theme.DeviceDefault.Wallpaper" >
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.DetailHelper"
+            android:label="@string/detailLable"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
+        <activity
+            android:name="net.geekstools.floatshort.WiFiScope"
+            android:label="@string/wifi" >
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.BluetoothScope"
+            android:icon="@drawable/w_bluetooth"
+            android:label="@string/bluetooth" >
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.GPSScope"
+            android:icon="@drawable/w_gps"
+            android:label="@string/gps" >
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.SettingGUI"
+            android:icon="@drawable/w_pref" >
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.LauncherHandler"
+            android:theme="@android:style/Theme.NoDisplay" >
+            <intent-filter>
+                <action android:name="net.geekstools.floatshort.PRO.action.LAUNCH_IT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="net.geekstools.floatshort.BindServices" />
+        <service android:name="net.geekstools.floatshort.Floating_one" />
+        <service android:name="net.geekstools.floatshort.Floating_two" />
+        <service android:name="net.geekstools.floatshort.Floating_three" />
+        <service android:name="net.geekstools.floatshort.Floating_four" />
+        <service android:name="net.geekstools.floatshort.Floating_five" />
+        <service android:name="net.geekstools.floatshort.Floating_six" />
+        <service android:name="net.geekstools.floatshort.Floating_seven" />
+        <service android:name="net.geekstools.floatshort.Floating_eight" />
+        <service android:name="net.geekstools.floatshort.Floating_nine" />
+        <service android:name="net.geekstools.floatshort.Floating_ten" />
+        <service android:name="net.geekstools.floatshort.Widget_Floating_one" />
+        <service android:name="net.geekstools.floatshort.Widget_Floating_two" />
+        <service android:name="net.geekstools.floatshort.Widget_Floating_three" />
+        <service android:name="net.geekstools.floatshort.Widget_Mini_one" />
+        <service android:name="net.geekstools.floatshort.Widget_Mini_two" />
+        <service android:name="net.geekstools.floatshort.Widget_Mini_three" />
+
+        <receiver android:name="net.geekstools.floatshort.RecieverWiFi" >
+            <intent-filter>
+                <action android:name="android.intent.action.AIRPLANE_MODE" />
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="net.geekstools.floatshort.RecieverBluetooth" >
+            <intent-filter>
+                <action android:name="android.bluetooth.adapter.action.STATE_CHANGED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="net.geekstools.floatshort.RecieverGPS" >
+            <intent-filter>
+                <action android:name="android.location.PROVIDERS_CHANGED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="net.geekstools.floatshort.Floating_WiFi1" />
+        <service android:name="net.geekstools.floatshort.Floating_WiFi2" />
+        <service android:name="net.geekstools.floatshort.Floating_Bluetooth1" />
+        <service android:name="net.geekstools.floatshort.Floating_Bluetooth2" />
+        <service android:name="net.geekstools.floatshort.Floating_GPS1" />
+        <service android:name="net.geekstools.floatshort.Floating_GPS2" />
+
+        <!-- floatshort.PRO Features -->
+        <activity
+            android:name="net.geekstools.floatshort.GetTime"
+            android:icon="@drawable/w_time"
+            android:label="@string/time" />
+        <activity
+            android:name="net.geekstools.floatshort.TimeScope"
+            android:icon="@drawable/w_time"
+            android:label="@string/time" >
+        </activity>
+
+        <service android:name="net.geekstools.floatshort.Floating_TIME1" />
+        <service android:name="net.geekstools.floatshort.Floating_TIME2" />
+
+        <activity
+            android:name="net.geekstools.floatshort.TimeHelper1"
+            android:theme="@android:style/Theme.NoDisplay" >
+            <intent-filter>
+                <action android:name="net.geekstools.floatshort.pro.timehelper1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.TimeHelper2"
+            android:theme="@android:style/Theme.NoDisplay" >
+            <intent-filter>
+                <action android:name="net.geekstools.floatshort.pro.timehelper2" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.RecoveryShortcuts"
+            android:theme="@android:style/Theme.NoDisplay" >
+            <intent-filter>
+                <action android:name="net.geekstools.floatshort.pro.LAUNCH_BACKGROUND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.RecoveryWidgets"
+            android:theme="@android:style/Theme.NoDisplay" >
+            <intent-filter>
+                <action android:name="net.geekstools.floatshort.pro.LAUNCH_BACKGROUND_WIDGET" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.StopAll"
+            android:theme="@android:style/Theme.NoDisplay" />
+        <activity
+            android:name="net.geekstools.floatshort.CancelStableTemp"
+            android:theme="@android:style/Theme.NoDisplay" />
+
+        <receiver android:name="net.geekstools.floatshort.AppsReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="net.geekstools.floatshort.MainScopeOff"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.DeviceDefault.Wallpaper" />
+        <activity
+            android:name="net.geekstools.floatshort.GridViewOff"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.DeviceDefault.Wallpaper" />
+        <activity android:name="net.geekstools.floatshort.PurchaseActivity" />
+        <activity
+            android:name="net.geekstools.floatshort.DeepLinkedPromotHandler"
+            android:theme="@android:style/Theme.DeviceDefault.Light" >
+            <intent-filter android:label="@string/app_name" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
+                <data
+                    android:host="g33kstools.blogspot.com"
+                    android:pathPrefix="/p/shortcuts.html"
+                    android:scheme="http" />
+                <!-- adb shell am start -W -a android.intent.action.VIEW -d "http://g33kstools.blogspot.com/p/shortcuts.html" net.geekstools.floatshort.PRO -->
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.geekstools.floatshort.DeepLinkedShortcuts"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen" >
+            <intent-filter android:label="@string/app_name" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="g33kstools.blogspot.com"
+                    android:pathPrefix="/p/createshortcuts.html"
+                    android:scheme="http" />
+                <!-- adb shell am start -W -a android.intent.action.VIEW -d "http://g33kstools.blogspot.com/p/createshortcuts.html" net.geekstools.floatshort.PRO -->
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="net.geekstools.floatshort.CloudNotificationHandler"
+            android:icon="@drawable/ic_notification" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name="net.geekstools.floatshort.FloatingUnlimit" />
+
+        <activity
+            android:name="com.digits.sdk.android.PhoneNumberActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.ConfirmationCodeActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.LoginCodeActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.PinCodeActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.FailureActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android" />
+        <activity
+            android:name="com.digits.sdk.android.ContactsActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false" />
+        <activity
+            android:name="com.digits.sdk.android.EmailRequestActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.PhoneNumberActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.ConfirmationCodeActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.LoginCodeActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.FailureActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android" />
+        <activity
+            android:name="com.digits.sdk.android.ContactsActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false" />
+        <activity
+            android:name="com.digits.sdk.android.PinCodeActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.digits.sdk.android.EmailRequestActionBarActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:taskAffinity="com.digits.sdk.android"
+            android:windowSoftInputMode="stateVisible" />
+
+        <service
+            android:name="com.digits.sdk.android.ContactsUploadService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.twitter.sdk.android.core.identity.OAuthActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false" />
+        <activity
+            android:name="com.twitter.sdk.android.core.identity.ShareEmailActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:icon="@drawable/tw__transparent"
+            android:label="@string/kit_name" />
+        <activity
+            android:name="com.twitter.sdk.android.tweetcomposer.ComposerActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize|stateVisible" />
+
+        <service
+            android:name="com.twitter.sdk.android.tweetcomposer.TweetUploadService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.twitter.sdk.android.tweetui.PlayerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@style/MediaTheme" />
+        <activity
+            android:name="com.twitter.sdk.android.tweetui.GalleryActivity"
+            android:theme="@style/MediaTheme" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="net.geekstools.floatshort.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="net.geekstools.floatshort" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.google.android.gms.appinvite.PreviewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppInvite.Preview" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!--
+ FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+    </application>
+
+</manifest>

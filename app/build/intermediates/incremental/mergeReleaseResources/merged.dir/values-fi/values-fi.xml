@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="tw__time_hours">
+        <item quantity="one">1 h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="tw__time_mins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Ota käyttöön"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi, ellet ota Google Play Palveluita käyttöön."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Ota Google Play Palvelut käyttöön"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Asenna"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, jotka puuttuvat puhelimestasi."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, jotka puuttuvat tabletistasi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Asenna Google Play Palvelut"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Virhe Google Play -palveluissa"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Sovelluksella <ns1:g id="APP_NAME">%1$s</ns1:g> on ongelmia Google Play Palveluiden kanssa. Jos ongelma ei poistu, ota yhteyttä sovelluksen kehittäjään."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> käyttää Google Play Palveluita, joita laitteesi ei tue. Ota yhteyttä laitteen valmistajaan."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play Palvelut"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Päivitä"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi, ellet päivitä Google Play Palveluita."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Päivitä Google Play Palvelut"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play Palveluita päivitetään"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Avaa puhelimessa"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Kirjaudu sisään"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Kirjaudu Google-tilille"</string>
+    <string name="dgts__call_me">Soita minulle</string>
+    <string name="dgts__calling">Soitetaan…</string>
+    <string name="dgts__confirmation_code">Vahvistuskoodi</string>
+    <string name="dgts__confirmation_edit_hint">Syötä kuusinumeroinen koodi jonka lähetimme sinulle</string>
+    <string name="dgts__confirmation_error">Puhelinnumeroasi ei pystytty vahvistamaan</string>
+    <string name="dgts__confirmation_error_alternative">Vahvistuskoodin lähettämisessä on nyt ongelmia.</string>
+    <string name="dgts__confirmation_expired">Tämä koodi on vanhentunut. Lähetä vahvistuskoodi uudelleen.</string>
+    <string name="dgts__continue">Jatka</string>
+    <string name="dgts__create_account">Luo tili</string>
+    <string name="dgts__digits_logo_desc">digits-logon kuvake</string>
+    <string name="dgts__digits_logo_name_desc">digits-logon nimi</string>
+    <string name="dgts__dismiss">Hylkää</string>
+    <string name="dgts__done">Valmis</string>
+    <string name="dgts__email_request_edit_hint">Sähköpostiosoite</string>
+    <string name="dgts__email_request_title">Kirjoita sähköpostiosoite</string>
+    <string name="dgts__find_your_friends">Löydä ystäväsi</string>
+    <string name="dgts__image_header_description">Kirjautumisen kuvaotsake</string>
+    <string name="dgts__invalid_email">Virheellinen sähköpostiosoite. Yritä uudelleen</string>
+    <string name="dgts__login_digits_text">Käytä puhelinnumeroani</string>
+    <string name="dgts__network_error">Tarkista verkkoyhteys ja yritä uudelleen</string>
+    <string name="dgts__not_now">Ei nyt</string>
+    <string name="dgts__okay">OK</string>
+    <string name="dgts__phone_number_edit_hint">Numerosi</string>
+    <string name="dgts__phone_number_text">Anna puhelinnumerosi</string>
+    <string name="dgts__pin_code_verification_title">Syötä kaksivaiheinen varmennuskoodi</string>
+    <string name="dgts__resend_confirmation_button_code">Lähetä koodi uudelleen</string>
+    <string name="dgts__resend_confirmation_text">Lähetä vahvistuskoodi</string>
+    <string name="dgts__send_confirmation_code">Lähetä vahvistuskoodi</string>
+    <string name="dgts__sending">Lähetetään…</string>
+    <string name="dgts__success_desc">Onnistumiskuvake</string>
+    <string name="dgts__terms_email_request">Kun napautat yltä %1$sJatka%1$s, lisäät tämän sähköpostiosoitteen Digits-tilillesi. Hyväksyt, että tämä sovellus ja %7$skaikki Digits-tililläsi listatut sovellukset%5$s voivat käyttää tätä sähköpostiosoitetta ja että niiden käyttäjät voivat löytää sinut sähköpostiosoitteesi avulla.</string>
+    <string name="dgts__terms_text">Kun napautat yltä %1$sLähetä vahvistuskoodi%1$s, %6$sDigits by Twitter%5$s lähettää sinulle tekstiviestin puhelinnumerosi vahvistamista varten. Seuraavassa näkymässä voit valita vaihtoehdon Lähetä koodi uudelleen saadaksesi uuden tekstiviestin tai Soita minulle aloittaaksesi uuden puhelun puhelinnumerosi vahvistamista varten. Tekstiviesti-, puhelu- ja tiedonsiirtokustannukset ovat voimassa.</string>
+    <string name="dgts__terms_text_call_me">Kun napautat yltä %1$sSoita minulle%1$s, %6$sDigits by Twitter%5$s soittaa sinulle puhelinnumerosi vahvistamista varten. Puhelu- ja tiedonsiirtokustannukset ovat voimassa.</string>
+    <string name="dgts__terms_text_create">Kun napautat yltä %1$sLuo tili%1$s, hyväksyt %6$sDigits by Twitter%5$s -palvelun %8$skäyttöehdot%5$s, %9$syksityisyyskäytännön%5$s ja %10$sevästeiden käytön%5$s sekä sen, että puhelinnumerosi jaetaan sovelluksen %4$s kanssa ja että muut sovelluksen %4$s käyttäjät voivat löytää sinut puhelinnumerosi avulla.</string>
+    <string name="dgts__terms_text_sign_in">Kun napautat yltä %1$sJatka%1$s, %7$sDigits-puhelinnumerosi ja/tai -sähköpostiosoitteesi%5$s jaetaan sovelluksen %4$s kanssa ja muut sovelluksen %4$s käyttäjät voivat löytää sinut puhelinnumerosi ja/tai sähköpostiosoitteesi avulla.</string>
+    <string name="dgts__terms_text_updated">Kun napautat yltä %1$sJatka%1$s, hyväksyt %6$sDigits by Twitter%5$s -palvelun %8$skäyttöehdot%5$s, %9$syksityisyyskäytännön%5$s ja %10$sevästeiden käytön%5$s sekä sen, että %7$sDigits-puhelinnumerosi ja/tai -sähköpostiosoitteesi%5$s jaetaan sovelluksen %4$s kanssa ja muut sovelluksen %4$s käyttäjät voivat löytää sinut puhelinnumerosi ja/tai sähköpostiosoitteesi avulla.</string>
+    <string name="dgts__try_again">Yritä uudelleen</string>
+    <string name="dgts__try_again_confirmation">Tarkista koodi ja yritä uudelleen.</string>
+    <string name="dgts__try_again_email">Tarkista sähköpostiosoitteesi ja yritä uudelleen</string>
+    <string name="dgts__try_again_phone_number">Tarkista numero ja yritä uudelleen.</string>
+    <string name="dgts__try_another_phone">Kokeile toista puhelinnumeroa</string>
+    <string name="dgts__unsupported_operator_error">Tekstiviestin lähettäminen tähän numeroon ei onnistu.</string>
+    <string name="dgts__upload_contacts">Digits by Twitter -palvelu auttaa löytämään muita tätä sovellusta käyttäviä ystäviäsi. Kun napautat OK, lähetämme osoitekirjasi Digits by Twitterille, jotta voimme auttaa sinua löytämään tuntemiasi sovelluksen %1$s käyttäjiä tai auttaa muita sovelluksen %1$s käyttäjiä löytämään sinut.</string>
+    <string name="dgts__verification_code">Varmennuskoodi</string>
+    <string name="dgts_pin_code_terms">Olet aiemmin asettanut kaksivaiheisen varmennuskoodin osoitteessa digits.com</string>
+    <string name="tw__allow_btn_txt">Salli</string>
+    <string name="tw__like_tweet">Tykkää twiitistä</string>
+    <string name="tw__liked_tweet">Kumoa tykkäys</string>
+    <string name="tw__loading_tweet">Ladataan twiittiä</string>
+    <string name="tw__login_btn_txt">Kirjaudu Twitter-tunnuksellasi</string>
+    <string name="tw__not_now_btn_txt">Ei nyt</string>
+    <string name="tw__pause">pysäytä</string>
+    <string name="tw__play">toista</string>
+    <string name="tw__relative_date_format_long">d.M.y</string>
+    <string name="tw__relative_date_format_short">d. MMM</string>
+    <string name="tw__replay">toista uudelleen</string>
+    <string name="tw__retweeted_by_format">Uudelleentwiitannut %1$s</string>
+    <string name="tw__share_content_format">Katso käyttäjän \@%1$s twiitti: https://twitter.com/%1$s/status/%2$s</string>
+    <string name="tw__share_email_desc">Salli kohteen %1$s käyttää Twitter-tiliisi liitettyä sähköpostiosoitetta \@%2$s, jotta %1$s voi käyttää sitä yksityisyyskäytäntönsä mukaisesti. %1$s voi esimerkiksi lähettää sinulle päivityksiä ja muuta tietoa kyseiseen osoitteeseen.</string>
+    <string name="tw__share_email_title">Jaa sähköpostiosoitteesi</string>
+    <string name="tw__share_subject_format">Twiitti käyttäjältä %1$s (\@%2$s)</string>
+    <string name="tw__share_tweet">Jaa twiitti</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+</resources>

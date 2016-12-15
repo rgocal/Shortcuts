@@ -1,0 +1,1647 @@
+[
+    {
+        "outputFile": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-tl\\values-tl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 14,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endLine": 9,
+                        "endColumn": 14,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 108,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 108,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 207,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endColumn": 207,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 139,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 139,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 110,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 110,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 224,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endColumn": 224,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endColumn": 223,
+                    "endOffset": 1511
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1133,
+                        "endColumn": 223,
+                        "endOffset": 1352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1516,
+                    "endColumn": 137,
+                    "endOffset": 1649
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1357,
+                        "endColumn": 137,
+                        "endOffset": 1490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1654,
+                    "endColumn": 141,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1495,
+                        "endColumn": 141,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endColumn": 281,
+                    "endOffset": 2073
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 281,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2078,
+                    "endColumn": 272,
+                    "endOffset": 2346
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 272,
+                        "endOffset": 1905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2351,
+                    "endColumn": 130,
+                    "endOffset": 2477
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1910,
+                        "endColumn": 130,
+                        "endOffset": 2036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2482,
+                    "endColumn": 108,
+                    "endOffset": 2586
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2041,
+                        "endColumn": 108,
+                        "endOffset": 2145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2591,
+                    "endColumn": 208,
+                    "endOffset": 2795
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2150,
+                        "endColumn": 208,
+                        "endOffset": 2354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2800,
+                    "endColumn": 139,
+                    "endOffset": 2935
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2359,
+                        "endColumn": 139,
+                        "endOffset": 2494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2940,
+                    "endColumn": 220,
+                    "endOffset": 3156
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2499,
+                        "endColumn": 220,
+                        "endOffset": 2715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3161,
+                    "endColumn": 139,
+                    "endOffset": 3296
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2720,
+                        "endColumn": 139,
+                        "endOffset": 2855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3301,
+                    "endColumn": 208,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2860,
+                        "endColumn": 208,
+                        "endOffset": 3064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endColumn": 97,
+                    "endOffset": 3603
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3069,
+                        "endColumn": 97,
+                        "endOffset": 3162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3608,
+                    "endColumn": 95,
+                    "endOffset": 3699
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3167,
+                        "endColumn": 95,
+                        "endOffset": 3258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3704,
+                    "endColumn": 109,
+                    "endOffset": 3809
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-tl\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3263,
+                        "endColumn": 109,
+                        "endOffset": 3368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3814,
+                    "endColumn": 53,
+                    "endOffset": 3863
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3868,
+                    "endColumn": 52,
+                    "endOffset": 3916
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3921,
+                    "endColumn": 71,
+                    "endOffset": 3988
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 71,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3993,
+                    "endColumn": 106,
+                    "endOffset": 4095
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 106,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4100,
+                    "endColumn": 100,
+                    "endOffset": 4196
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 100,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4201,
+                    "endColumn": 139,
+                    "endOffset": 4336
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 139,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4341,
+                    "endColumn": 121,
+                    "endOffset": 4458
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 121,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4463,
+                    "endColumn": 53,
+                    "endOffset": 4512
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 53,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4517,
+                    "endColumn": 67,
+                    "endOffset": 4580
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 67,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4585,
+                    "endColumn": 70,
+                    "endOffset": 4651
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endColumn": 70,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4656,
+                    "endColumn": 79,
+                    "endOffset": 4731
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 897,
+                        "endColumn": 79,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4736,
+                    "endColumn": 51,
+                    "endOffset": 4783
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 977,
+                        "endColumn": 51,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4788,
+                    "endColumn": 47,
+                    "endOffset": 4831
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 47,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4836,
+                    "endColumn": 71,
+                    "endOffset": 4903
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 71,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4908,
+                    "endColumn": 78,
+                    "endOffset": 4982
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1149,
+                        "endColumn": 78,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4987,
+                    "endColumn": 79,
+                    "endOffset": 5062
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 79,
+                        "endOffset": 1303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5067,
+                    "endColumn": 85,
+                    "endOffset": 5148
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1308,
+                        "endColumn": 85,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5153,
+                    "endColumn": 74,
+                    "endOffset": 5223
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1394,
+                        "endColumn": 74,
+                        "endOffset": 1464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5228,
+                    "endColumn": 83,
+                    "endOffset": 5307
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1469,
+                        "endColumn": 83,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5312,
+                    "endColumn": 95,
+                    "endOffset": 5403
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 95,
+                        "endOffset": 1644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5408,
+                    "endColumn": 54,
+                    "endOffset": 5458
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1649,
+                        "endColumn": 54,
+                        "endOffset": 1699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5463,
+                    "endColumn": 43,
+                    "endOffset": 5502
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1704,
+                        "endColumn": 43,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5507,
+                    "endColumn": 70,
+                    "endOffset": 5573
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1748,
+                        "endColumn": 70,
+                        "endOffset": 1814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5578,
+                    "endColumn": 85,
+                    "endOffset": 5659
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1819,
+                        "endColumn": 85,
+                        "endOffset": 1900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5664,
+                    "endColumn": 97,
+                    "endOffset": 5757
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1905,
+                        "endColumn": 97,
+                        "endOffset": 1998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5762,
+                    "endColumn": 87,
+                    "endOffset": 5845
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2003,
+                        "endColumn": 87,
+                        "endOffset": 2086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5850,
+                    "endColumn": 92,
+                    "endOffset": 5938
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2091,
+                        "endColumn": 92,
+                        "endOffset": 2179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5943,
+                    "endColumn": 89,
+                    "endOffset": 6028
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2184,
+                        "endColumn": 89,
+                        "endOffset": 2269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6033,
+                    "endColumn": 53,
+                    "endOffset": 6082
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2274,
+                        "endColumn": 53,
+                        "endOffset": 2323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6087,
+                    "endColumn": 59,
+                    "endOffset": 6142
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2328,
+                        "endColumn": 59,
+                        "endOffset": 2383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6147,
+                    "endColumn": 367,
+                    "endOffset": 6510
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2388,
+                        "endColumn": 367,
+                        "endOffset": 2751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6515,
+                    "endColumn": 453,
+                    "endOffset": 6964
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2756,
+                        "endColumn": 453,
+                        "endOffset": 3205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6969,
+                    "endColumn": 222,
+                    "endOffset": 7187
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3210,
+                        "endColumn": 222,
+                        "endOffset": 3428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7192,
+                    "endColumn": 393,
+                    "endOffset": 7581
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 3433,
+                        "endColumn": 393,
+                        "endOffset": 3822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7586,
+                    "endColumn": 280,
+                    "endOffset": 7862
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3827,
+                        "endColumn": 280,
+                        "endOffset": 4103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7867,
+                    "endColumn": 435,
+                    "endOffset": 8298
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 4108,
+                        "endColumn": 435,
+                        "endOffset": 4539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 8303,
+                    "endColumn": 56,
+                    "endOffset": 8355
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 4544,
+                        "endColumn": 56,
+                        "endOffset": 4596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 8360,
+                    "endColumn": 104,
+                    "endOffset": 8460
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 4601,
+                        "endColumn": 104,
+                        "endOffset": 4701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8465,
+                    "endColumn": 90,
+                    "endOffset": 8551
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4706,
+                        "endColumn": 90,
+                        "endOffset": 4792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8556,
+                    "endColumn": 102,
+                    "endOffset": 8654
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4797,
+                        "endColumn": 102,
+                        "endOffset": 4895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8659,
+                    "endColumn": 88,
+                    "endOffset": 8743
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4900,
+                        "endColumn": 88,
+                        "endOffset": 4984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8748,
+                    "endColumn": 112,
+                    "endOffset": 8856
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4989,
+                        "endColumn": 112,
+                        "endOffset": 5097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8861,
+                    "endColumn": 369,
+                    "endOffset": 9226
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 5102,
+                        "endColumn": 369,
+                        "endOffset": 5467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 9231,
+                    "endColumn": 72,
+                    "endOffset": 9299
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 5472,
+                        "endColumn": 72,
+                        "endOffset": 5540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 9304,
+                    "endColumn": 108,
+                    "endOffset": 9408
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 5545,
+                        "endColumn": 108,
+                        "endOffset": 5649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 9413,
+                    "endColumn": 53,
+                    "endOffset": 9462
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 9467,
+                    "endColumn": 61,
+                    "endOffset": 9524
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endColumn": 61,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 9529,
+                    "endColumn": 60,
+                    "endOffset": 9585
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 60,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 9590,
+                    "endColumn": 65,
+                    "endOffset": 9651
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 65,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 9656,
+                    "endColumn": 74,
+                    "endOffset": 9726
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 74,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9731,
+                    "endColumn": 60,
+                    "endOffset": 9787
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 60,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9792,
+                    "endColumn": 45,
+                    "endOffset": 9833
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 45,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9838,
+                    "endColumn": 43,
+                    "endOffset": 9877
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 43,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 9882,
+                    "endColumn": 63,
+                    "endOffset": 9941
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 63,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 9946,
+                    "endColumn": 64,
+                    "endOffset": 10006
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 64,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 10011,
+                    "endColumn": 50,
+                    "endOffset": 10057
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 50,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 10062,
+                    "endColumn": 70,
+                    "endOffset": 10128
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endColumn": 70,
+                        "endOffset": 974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 10133,
+                    "endColumn": 114,
+                    "endOffset": 10243
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 979,
+                        "endColumn": 114,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 10248,
+                    "endColumn": 302,
+                    "endOffset": 10546
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 302,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 10551,
+                    "endColumn": 78,
+                    "endOffset": 10625
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 78,
+                        "endOffset": 622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 10630,
+                    "endColumn": 81,
+                    "endOffset": 10707
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endColumn": 81,
+                        "endOffset": 1171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 10712,
+                    "endColumn": 61,
+                    "endOffset": 10769
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1176,
+                        "endColumn": 61,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 10774,
+                    "endColumn": 75,
+                    "endOffset": 10845
+                },
+                "from": {
+                    "file": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-tl\\values-tl.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 75,
+                        "endOffset": 1309
+                    }
+                }
+            }
+        ]
+    }
+]

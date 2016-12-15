@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:key="ad_pref"
+        android:title="Upgrade to PRO Version"
+        android:summary="PRO Version: More Stable &amp; Better Performance. Refined Interface. No Ads."
+        android:icon="@drawable/draw_pref_pro"/>
+
+    <Preference
+        android:icon="@drawable/w_pref"
+        android:key="widget"
+        android:title="@string/widget"
+        android:summary="@string/widget_desc" />
+
+    <PreferenceCategory android:title="Automation Features" >
+        <Preference
+            android:icon="@drawable/w_wifi"
+            android:key="wifi"
+            android:title="@string/wifi"
+            android:summary="@string/wifi_desc" />
+        <Preference
+            android:icon="@drawable/w_bluetooth"
+            android:key="bluetooth"
+            android:title="@string/bluetooth"
+            android:summary="@string/bluetooth_desc" />
+        <Preference
+            android:icon="@drawable/w_gps"
+            android:key="gps"
+            android:title="@string/gps"
+            android:summary="@string/gps_desc" />
+        <Preference
+            android:icon="@drawable/w_time"
+            android:key="time"
+            android:title="@string/time"
+            android:summary="@string/time_desc" />
+        <SwitchPreference
+            android:key="autoremove"
+            android:icon="@drawable/w_pref"
+            android:title="@string/autoremove"
+            android:switchTextOn="ON"
+            android:switchTextOff="OFF"
+            android:summary="@string/on_remove"
+            android:defaultValue="false" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Preferences" >
+        <ListPreference 
+            android:key="apps"
+            android:icon="@drawable/w_pref"
+            android:title="@string/viewapps"
+            android:entries="@array/View"
+            android:entryValues="@array/ViewValues"
+            android:defaultValue="1" />
+        
+        <ListPreference 
+            android:key="textcolor"
+            android:icon="@drawable/w_pref"
+            android:title="@string/colortext"
+            android:entries="@array/ColorText"
+            android:entryValues="@array/ColorTextValues"
+            android:defaultValue="1" />
+        
+        <ListPreference 
+            android:key="sizes"
+            android:icon="@drawable/w_pref"
+            android:title="@string/shortsizepref"
+            android:summary="@string/shortsize_desc"
+            android:entries="@array/MOD"
+            android:entryValues="@array/MODValues"
+            android:defaultValue="2" />
+        
+        <SwitchPreference 
+            android:key="hide"
+            android:icon="@drawable/w_pref"
+            android:title="@string/autotrans"
+            android:switchTextOn="ON"
+            android:switchTextOff="OFF"
+            android:summary="@string/on_trans"
+            android:defaultValue="false" />
+	</PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/advance">
+        <SwitchPreference
+            android:key="stable"
+            android:icon="@drawable/w_pref"
+            android:title="@string/stable"
+            android:switchTextOn="ON"
+            android:switchTextOff="OFF"
+            android:summary="@string/on_stable"
+            android:defaultValue="true" />
+
+        <SwitchPreference
+            android:key="autorecov"
+            android:icon="@drawable/w_pref"
+            android:title="@string/autorecovs"
+            android:switchTextOn="ON"
+            android:switchTextOff="OFF"
+            android:summary="@string/syscache"
+            android:defaultValue="false" />
+
+        <Preference
+            android:icon="@drawable/w_pref"
+            android:key="overview"
+            android:title="@string/detail"
+            android:summary="@string/detaildesc" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Related Applications" >
+        <Preference
+            android:icon="@drawable/ic_geek"
+            android:key="app"
+            android:title="@string/geeksempire"
+            android:summary="@string/geeksdesc" />
+        <Preference
+            android:icon="@drawable/ic_geekylauncher"
+            android:key="launcher"
+            android:title="@string/launcher"
+            android:summary="@string/launcher_desc" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

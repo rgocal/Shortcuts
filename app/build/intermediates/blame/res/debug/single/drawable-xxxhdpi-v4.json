@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__logo.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-xxxhdpi-v4\\dgts__logo.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__spinner_dark.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-xxxhdpi-v4\\dgts__spinner_dark.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__spinner_light.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-xxxhdpi-v4\\dgts__spinner_light.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__logo_name.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-xxxhdpi-v4\\dgts__logo_name.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__ic_success.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-xxxhdpi-v4\\dgts__ic_success.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__addressbook_header.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-xxxhdpi-v4\\dgts__addressbook_header.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__login_header.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-xxxhdpi-v4\\dgts__login_header.png"
+    }
+]

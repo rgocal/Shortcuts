@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shortcuts</string>
+    <string name="app_launch">Shortcuts</string>
+    <string name="pro_version">Shortcuts PRO</string>
+    <string name="osp_text">Devs Zone</string>
+    <string name="donate">Support</string>
+    <string name="promo_dialogue_text">"To Have More Floating Shortcuts, Widgets, Enable Automation Features &amp; Preferences Please Purchase Shortcuts PRO."</string>
+    <string name="geeksempire">Geeks Empire</string>
+    <string name="geeksempire_plus">GeeksEmpire\nCircle</string>
+    <string name="geeksempire_twitter">GeeksEmpire\nFollow</string>
+    <string name="recoveryw">Recover Widgets</string>
+    <string name="settingTitle">Settings</string>
+    <string name="recovery">Recover Shortcuts</string>
+    <string name="launcher">Geeky Launcher</string>
+    <string name="overlayset">Turn ON Permission Please</string>
+    <string name="bindDesc">Go to Settings to Turn Off Steady Mode</string>
+
+    <string name="link_shortcuts_pro">https://play.google.com/store/apps/details?id=net.geekstools.floatshort.PRO</string>
+    <string name="link_rate">https://play.google.com/store/apps/dev?id=6231624576518993324</string>
+    <string name="link_faq">http://geeks3mpire.blogspot.com/2015/01/faq-floating-shortcuts.html</string>
+    <string name="link_launcher">https://play.google.com/store/apps/details?id=net.geekstools.geekylauncher</string>
+    <string name="link_osp">http://geosp.geeksempire.net/</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2244907529776726/7932637295</string>
+
+    <string name="dismiss_msg">Press Again to Release Service</string>
+    <string name="geektools">Say *OK Google! Open Floating Shortcuts* to Recover All Last Used
+        Shortcuts.
+    </string>
+    <string name="guide">
+        <![CDATA[
+            <p> Select an App to create Floating Shortcut &amp; Widget. You can dragNdrop it around the display &amp; Long Press to Remove it.</p>
+            <p>If You Like Shortcuts App Please Share it with Your Friends.\n
+            <b>Click Here To Open Shortcuts.</b></p>
+        ]]>
+    </string>
+    <string name="app_index_error">Turn On Steady Mode to Enable this Functionality</string>
+
+    <string name="advance">Advance Features</string>
+    <string name="advancedesc">Please first Read Details then Modify this Features</string>
+    <string name="wifi">Apps for WiFi</string>
+    <string name="wifi_desc">Shortcuts will create When Turn On WiFi</string>
+    <string name="bluetooth">Apps for Bluetooth</string>
+    <string name="bluetooth_desc">Shortcuts will create When Turn On Bluetooth</string>
+    <string name="gps">Apps for GPS</string>
+    <string name="gps_desc">Shortcuts will create When Turn On GPS</string>
+    <string name="time">Apps for Time</string>
+    <string name="time_desc">Set Alarm to create Shortcuts</string>
+    <string name="detail">Details &amp; Practical Info</string>
+    <string name="detaildesc">Please first Read Details then Modify this Features. Required
+        Permissions Details &amp; More
+    </string>
+
+    <string name="launcher_desc">Simple and Smooth Launcher Integrated to Shortcuts</string>
+    <string name="info">Services Are Avialable</string>
+    <string name="I_Need">Please Go To Permissions Section and Allow All Required Permissions
+    </string>
+    <string name="wait">Please Be Patient. It is One-Time Setup</string>
+
+    <string name="stable">Steady Mode</string>
+    <string name="widget">Floating Widgets</string>
+    <string name="widget_desc">Configure Floating Widgets for All Apps</string>
+    <string name="off_stable">Better for Power Consumption</string>
+    <string name="on_stable">Bind to Background Services &amp; Enable All Remote Features</string>
+    <string name="viewapps">App Drawer Style</string>
+    <string name="colortext">App Info Text Color</string>
+    <string name="shortsize">Options for</string>
+    <string name="autotrans">Auto Transparent</string>
+    <string name="on_trans">Shortcuts Will Set to 50% Opacity</string>
+    <string name="off_trans">Opacity: 100%</string>
+    <string name="autoremove">Auto Remove</string>
+    <string name="on_remove">Remove Shortcuts When WiFi|Bluetooth|GPS Turned OFF</string>
+    <string name="off_remove">Manually Remove Shortcuts</string>
+    <string name="shortsizepref">Shortcut/Widget Size</string>
+    <string name="shortsize_desc">Select Size of Icons/Widgets</string>
+    <string name="color_desc">Select Main Color of Floating Shortcuts and Geeky Launcher.</string>
+
+    <string name="autorecovs">System Cache</string>
+    <string name="syscache">System Will Recover All Floating Shortcuts That Removed By System.</string>
+
+    <!--Permissions-->
+    <string name="detailLable">Shortcuts Details</string>
+    <string name="overlayError">
+        <![CDATA[
+            <p>This is Essential Permission for Basic Functionality of Shortcuts App.</p>
+            <p>This Permission Allows to Add Floating Shortcuts View on Top of Other Apps.\n
+            <b>You Can Not Use Shortcuts App. Please Grant Permission.</b></p>
+        ]]>
+    </string>
+    <string name="usagestatError">
+        <![CDATA[
+            <p>Remote &amp; Smart Features need to Know How you Use Installed Apps. For Example;\n
+                Use OK Google! Command to Run Shortcuts. It Will Recreate last Shortcuts Automatically without Opening the App.</p>
+            <p>Please Grant Permission to Use these features &amp; Pass this CheckPoint. <b>Click Here to Open Shortcuts.</b></p>
+        ]]>
+    </string>
+    <string name="runtimeError">
+        <![CDATA[
+            <p>\nGPS Or Storage Permission is denied. Shortcuts App needs these Permission for better functionality.</p>
+            <p>Please Grant Permission to Use these features &amp; Pass this CheckPoint. <b>Click Here to Open Shortcuts.</b></p>
+        ]]>
+    </string>
+    <string name="welcome_info">Please Be Patient! It is One-Time Setup.\n
+        Since Android 6 System needs Users to Allow Or Deny Apps Required Permissions.
+        You can Read about Required Permissions for Shortcuts App in Detail in Next Page &amp; Click on each Item to Modify it.
+    </string>
+    <string name="skip">Skip Now</string>
+
+    <string name="overlayPer">Draw Over Other Apps Access</string>
+    <string name="overlayPerDesc">
+        This is Essential Permission for Basic Functionality of Shortcuts App.
+        This Permission Allows to Add Floating Shortcuts View on Top of Other Apps.
+    </string>
+
+    <string name="statPer">Usage Static Access</string>
+    <string name="statPerDesc">
+        Remote &amp; Smart Features need to Know How you Use Installed Apps.\n
+        It does NOT collect Any Personal Info.
+    </string>
+
+    <string name="storagePer">Storage Access</string>
+    <string name="storagePerDesc">
+        To Save some Configurations Shortcuts App needs to Write &amp; Read Files.
+        These Files Help to Optimise App Performance.
+    </string>
+
+    <string name="gpsPer">Device Location Access</string>
+    <string name="gpsPerDesc">
+        GPS Automation Features will create Location Based Shortcuts Or When GPS Sensor Turn ON.\n
+        It does NOT send Any GPS Info.
+    </string>
+
+    <!--Cloud_Invite-->
+    <string name="invitation_title">
+        *Install Shortcuts App*
+    </string>
+    <string name="invitation_message">
+        By This App you can Select an App to create *Floating Shortcut &amp; Widget*.
+    </string>
+    <string name="invitation_deep_link">https://gvfw2.app.goo.gl/Tbeh</string>
+    <string name="invitation_custom_image">https://lh3.googleusercontent.com/eRsRz5ROOLwiNrTqns6YfcMYgaKPo4TCmwixUpYMJoX8bcaUDng8KzxeljmlPFR7BQ=w300</string>
+
+    <string name="geeksdesc">Please Visit Geeks Empire Apps on Google Play Store</string>
+    <string name="link_plus">https://plus.google.com/111005369532093965757</string>
+    <string name="link_twitter">https://twitter.com/GeeksEmpire</string>
+
+    <!-- Default Color -->
+    <string name="default_color">#9A5150</string>
+
+    <string-array
+        name="MOD">
+        <item name="1">Small</item>
+        <item name="2">Medium</item>
+        <item name="3">Large</item>
+    </string-array>
+    <string-array
+        name="MODValues">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+    </string-array>
+
+    <string-array
+        name="View">
+        <item name="1">List View</item>
+        <item name="2">Grid View</item>
+    </string-array>
+    <string-array
+        name="ViewValues">
+        <item name="1">1</item>
+        <item name="2">2</item>
+    </string-array>
+
+    <string-array
+        name="ColorText">
+        <item name="1">Dark</item>
+        <item name="2">Light</item>
+    </string-array>
+    <string-array
+        name="ColorTextValues">
+        <item name="1">1</item>
+        <item name="2">2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="default_color">#237DAE</color>
+    <color name="android_def">#009688</color>
+    <color name="trans_white">#1AFFFFFF</color>
+    <color name="trans_black">#b4000000</color>
+
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anm.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\anim\\anm.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\actanim.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\anim\\actanim.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\anim\\slide_down.xml"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cancel_stable_def.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cancel_stable_def.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\upgrade_app.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\upgrade_app.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share_full.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_share_full.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_notification.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_osp.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_osp.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_gps.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_gps.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_welcome_text.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_welcome_text.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_pref.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_pref.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher_trans.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_trans.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher_pro.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_pro.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share_twitter.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_share_twitter.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share_plus.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_share_plus.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_about.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_about.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_close.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_close.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_time.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_time.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\marsala.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\marsala.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cancel_one.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cancel_one.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_move.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_move.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cancel_stable_press.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cancel_stable_press.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_open.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_open.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_geek.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_geek.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_set.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_set.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_about_small.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about_small.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_wifi.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_wifi.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_recovw.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_recovw.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_close_service.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close_service.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_bluetooth.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_bluetooth.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_set_press.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_set_press.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_geekylauncher.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_geekylauncher.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\w_recov.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\w_recov.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher_pro_marsala.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_pro_marsala.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cancel_two.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cancel_two.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\wait.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\wait.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_about.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\buy_gas.png",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable-xxhdpi\\buy_gas.png"
+    }
+]

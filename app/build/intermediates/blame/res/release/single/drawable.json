@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__install_button_border.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\drawable\\tw__install_button_border.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_gps.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_gps.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__login_btn_text_color_light.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\drawable\\tw__login_btn_text_color_light.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\detail_permission_gui.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\detail_permission_gui.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress_light.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\progress_light.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__bg_media_badge.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__bg_media_badge.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_bluetooth.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_bluetooth.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__video_seekbar.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_seekbar.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dgts__digits_btn_default.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\dgts__digits_btn_default.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_recovw.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_recovw.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__login_btn_default.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\drawable\\tw__login_btn_default.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_set_selector.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\ic_set_selector.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__login_btn.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\drawable\\tw__login_btn.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__video_play_btn.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_play_btn.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__app_info_layout_border.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\drawable\\tw__app_info_layout_border.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_pref.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_pref.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_welcome_gx.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_welcome_gx.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__login_btn_default_light.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\drawable\\tw__login_btn_default_light.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_recov.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_recov.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__gif_badge.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__gif_badge.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__video_replay_btn.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_replay_btn.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dgts__digits_btn_pressed.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\dgts__digits_btn_pressed.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_osp.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_osp.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_geekylauncher.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_geekylauncher.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress_dark.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\progress_dark.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_close_service.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_close_service.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__seekbar_thumb.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__seekbar_thumb.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_wifi.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_wifi.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__login_btn_disabled.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\drawable\\tw__login_btn_disabled.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__video_pause_btn.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_pause_btn.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__transparent.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\drawable\\tw__transparent.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__login_btn_pressed_light.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\drawable\\tw__login_btn_pressed_light.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_welcome_info.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_welcome_info.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_settings.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_settings.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_move.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_move.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gui_layer_card_background.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\gui_layer_card_background.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_pref_pro.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_pref_pro.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_time.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_time.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__btn_composer_tweet.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\drawable\\tw__btn_composer_tweet.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__share_action.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__share_action.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dgts__digits_btn.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\dgts__digits_btn.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_widget.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_widget.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__player_overlay.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__player_overlay.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\detail_full_gui.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\detail_full_gui.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_cancel_stable.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\ic_cancel_stable.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_close.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_close.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_skip.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\ic_skip.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_widget_mini.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_widget_mini.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_background.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__login_btn_light.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\drawable\\tw__login_btn_light.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tw__login_btn_pressed.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\drawable\\tw__login_btn_pressed.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_open.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_open.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\detail_share_gui.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\detail_share_gui.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\draw_welcome.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\drawable\\draw_welcome.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    }
+]

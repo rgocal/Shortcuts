@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tw__allow_btn_txt">اجازت دیں</string>
+    <string name="tw__login_btn_txt">ٹوئٹر سے لاگ ان کریں</string>
+    <string name="tw__not_now_btn_txt">ابھی نہیں</string>
+    <string name="tw__share_email_title">اپنا ای میل ایڈریس شیئر کریں</string>
+</resources>

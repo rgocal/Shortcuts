@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="net.geekstools.floatshort">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.LOCATION_HARDWARE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_agent"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_launch"
+        android:largeHeap="true"
+        android:theme="@android:style/Theme.DeviceDefault.Light">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="ec3d096cb61383a1c67769cfa9b37b4ce74e0c34" />
+
+        <activity
+            android:name=".ListGrid"
+            android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GridViewDrawer"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.DeviceDefault.Wallpaper">
+        </activity>
+        <activity
+            android:name=".MainScope"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.DeviceDefault.Wallpaper">
+        </activity>
+        <activity
+            android:name=".WidgetHandler"
+            android:theme="@android:style/Theme.DeviceDefault.Wallpaper">
+        </activity>
+        <activity
+            android:name=".DetailHelper"
+            android:label="@string/detailLable"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar"/>
+        <activity
+            android:name=".WiFiScope"
+            android:label="@string/wifi">
+        </activity>
+        <activity
+            android:name=".BluetoothScope"
+            android:icon="@drawable/w_bluetooth"
+            android:label="@string/bluetooth">
+        </activity>
+        <activity
+            android:name=".GPSScope"
+            android:icon="@drawable/w_gps"
+            android:label="@string/gps">
+        </activity>
+        <activity
+            android:name=".SettingGUI"
+            android:icon="@drawable/w_pref">
+        </activity>
+        <activity
+            android:name=".LauncherHandler"
+            android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter>
+                <action android:name="net.geekstools.floatshort.PRO.action.LAUNCH_IT"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <service android:name=".BindServices"/>
+        <service android:name=".Floating_one"/>
+        <service android:name=".Floating_two"/>
+        <service android:name=".Floating_three"/>
+        <service android:name=".Floating_four"/>
+        <service android:name=".Floating_five"/>
+        <service android:name=".Floating_six"/>
+        <service android:name=".Floating_seven"/>
+        <service android:name=".Floating_eight"/>
+        <service android:name=".Floating_nine"/>
+        <service android:name=".Floating_ten"/>
+        <service android:name=".Widget_Floating_one"/>
+        <service android:name=".Widget_Floating_two"/>
+        <service android:name=".Widget_Floating_three"/>
+        <service android:name=".Widget_Mini_one"/>
+        <service android:name=".Widget_Mini_two"/>
+        <service android:name=".Widget_Mini_three"/>
+
+        <receiver android:name=".RecieverWiFi">
+            <intent-filter>
+                <action android:name="android.intent.action.AIRPLANE_MODE"/>
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".RecieverBluetooth">
+            <intent-filter>
+                <action android:name="android.bluetooth.adapter.action.STATE_CHANGED"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".RecieverGPS">
+            <intent-filter>
+                <action android:name="android.location.PROVIDERS_CHANGED"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".Floating_WiFi1"/>
+        <service android:name=".Floating_WiFi2"/>
+        <service android:name=".Floating_Bluetooth1"/>
+        <service android:name=".Floating_Bluetooth2"/>
+        <service android:name=".Floating_GPS1"/>
+        <service android:name=".Floating_GPS2"/>
+
+        <!-- floatshort.PRO Features -->
+        <activity
+            android:name=".GetTime"
+            android:icon="@drawable/w_time"
+            android:label="@string/time"/>
+        <activity
+            android:name=".TimeScope"
+            android:icon="@drawable/w_time"
+            android:label="@string/time">
+        </activity>
+
+        <service android:name=".Floating_TIME1"/>
+        <service android:name=".Floating_TIME2"/>
+
+        <activity
+            android:name=".TimeHelper1"
+            android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter>
+                <action android:name="net.geekstools.floatshort.pro.timehelper1"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TimeHelper2"
+            android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter>
+                <action android:name="net.geekstools.floatshort.pro.timehelper2"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RecoveryShortcuts"
+            android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter>
+                <action android:name="net.geekstools.floatshort.pro.LAUNCH_BACKGROUND"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RecoveryWidgets"
+            android:theme="@android:style/Theme.NoDisplay">
+            <intent-filter>
+                <action android:name="net.geekstools.floatshort.pro.LAUNCH_BACKGROUND_WIDGET"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".StopAll"
+            android:theme="@android:style/Theme.NoDisplay"/>
+        <activity
+            android:name=".CancelStableTemp"
+            android:theme="@android:style/Theme.NoDisplay"/>
+
+        <receiver android:name=".AppsReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED"/>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".MainScopeOff"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.DeviceDefault.Wallpaper"/>
+        <activity
+            android:name=".GridViewOff"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.DeviceDefault.Wallpaper"/>
+
+        <activity android:name=".PurchaseActivity" />
+
+        <activity
+            android:name=".DeepLinkedPromotHandler"
+            android:theme="@android:style/Theme.DeviceDefault.Light">
+            <intent-filter android:label="@string/app_name">
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
+                <data
+                    android:host="g33kstools.blogspot.com"
+                    android:pathPrefix="/p/shortcuts.html"
+                    android:scheme="http"/>
+                <!-- adb shell am start -W -a android.intent.action.VIEW -d "http://g33kstools.blogspot.com/p/shortcuts.html" net.geekstools.floatshort.PRO -->
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DeepLinkedShortcuts"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen">
+            <intent-filter android:label="@string/app_name">
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data
+                    android:host="g33kstools.blogspot.com"
+                    android:pathPrefix="/p/createshortcuts.html"
+                    android:scheme="http"/>
+                <!-- adb shell am start -W -a android.intent.action.VIEW -d "http://g33kstools.blogspot.com/p/createshortcuts.html" net.geekstools.floatshort.PRO -->
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".CloudNotificationHandler"
+            android:icon="@drawable/ic_notification">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <service android:name=".FloatingUnlimit"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C0C0C0"
+    android:paddingTop="5dp"
+    android:paddingLeft="2dp"
+    android:paddingRight="2dp"
+    android:paddingBottom="0dp" >
+
+    <TimePicker
+        android:id="@+id/timePicker"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/card_background" />
+    
+    <Button 
+        android:id="@+id/set"
+        android:layout_width="57dp"
+        android:layout_height="57dp"
+        android:clickable="true"
+        android:soundEffectsEnabled="true"
+        android:hapticFeedbackEnabled="true"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@id/timePicker"
+        android:layout_marginBottom="57dp"
+        android:background="@drawable/ic_set_selector" />
+    
+    <TextView 
+        android:id="@+id/info"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/set"
+        android:layout_marginBottom="7dp"
+        android:textColorHint="#809A5150"
+        android:gravity="center"
+        android:textColor="#809A5150"
+        android:hint="@string/info" />
+
+    <Button 
+        android:id="@+id/cancelButton1"
+        android:layout_width="37dp"
+        android:layout_height="37dp"
+        android:clickable="true"
+        android:soundEffectsEnabled="true"
+        android:hapticFeedbackEnabled="true"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@id/timePicker"
+        android:layout_marginBottom="11dp"
+        android:layout_toLeftOf="@id/set"
+        android:layout_marginRight="-19dp"
+        android:background="@drawable/ic_cancel_one"
+        android:visibility="gone" />
+    <Button 
+        android:id="@+id/cancelButton2"
+        android:layout_width="37dp"
+        android:layout_height="37dp"
+        android:clickable="true"
+        android:soundEffectsEnabled="true"
+        android:hapticFeedbackEnabled="true"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@id/timePicker"
+        android:layout_marginBottom="11dp"
+        android:layout_toRightOf="@id/set"
+        android:layout_marginLeft="-19dp"
+        android:background="@drawable/ic_cancel_two"
+        android:visibility="gone" />
+    
+    <ImageView 
+        android:id="@+id/iconOne"
+        android:contentDescription="@string/app_name"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:padding="4dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@id/cancelButton1"
+        android:layout_marginBottom="11dp" />
+    <ImageView 
+        android:id="@+id/iconTwo"
+        android:contentDescription="@string/app_name"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:padding="4dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/cancelButton2"
+        android:layout_marginBottom="11dp" />
+
+</RelativeLayout>

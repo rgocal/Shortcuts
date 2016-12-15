@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="tw__time_hours">
+        <item quantity="one">1ಗಂ</item>
+        <item quantity="other">%dಗಂ</item>
+    </plurals>
+    <plurals name="tw__time_mins">
+        <item quantity="one">1ನಿ</item>
+        <item quantity="other">%dನಿ</item>
+    </plurals>
+    <plurals name="tw__time_secs">
+        <item quantity="one">1ಗಳು</item>
+        <item quantity="other">%dಗಳು</item>
+    </plurals>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"ಸಕ್ರಿಯಗೊಳಿಸು"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play ಸೇವೆಗಳನ್ನು ನೀವು ಸಕ್ರಿಯಗೊಳಿಸದ ಹೊರತು <ns1:g id="APP_NAME">%1$s</ns1:g> ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ಸ್ಥಾಪಿಸು"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ನಿಮ್ಮ ಫೋನ್‍‍ನಿಂದ ಕಾಣೆಯಾಗಿರುವ <ns1:g id="APP_NAME">%1$s</ns1:g> ರನ್ ಆಗುವುದಿಲ್ಲ."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‍ನಿಂದ ಕಾಣೆಯಾಗಿರುವ <ns1:g id="APP_NAME">%1$s</ns1:g> ರನ್ ಆಗುವುದಿಲ್ಲ."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play ಸೇವೆಗಳನ್ನು ಪಡೆಯಿರಿ"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play ಸೇವೆಗಳ ದೋಷ"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Google Play ಸೇವೆಗಳಲ್ಲಿ <ns1:g id="APP_NAME">%1$s</ns1:g> ಅಪ್ಲಿಕೇಶನ್ ಸಮಸ್ಯೆಯನ್ನು ಎದುರಿಸುತ್ತಿದೆ. ಸಮಸ್ಯೆ ಮುಂದುವರಿದರೆ, ಸಹಾಯಕ್ಕಾಗಿ ಡೆವಲಪರ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ನಿಮ್ಮ ಸಾಧನವು ಬೆಂಬಲಿಸದಿರುವಂತಹ Google Play ಸೇವೆಗಳನ್ನು ಅವಲಂಬಿಸಿದೆ. ಸಹಾಯಕ್ಕಾಗಿ ತಯಾರಕರನ್ನು ಸಂಪರ್ಕಿಸಿ."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play ಸೇವೆಗಳು"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"ಅಪ್‌ಡೇಟ್‌ ಮಾಡು"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"ನೀವು Google Play ಸೇವೆಗಳನ್ನು ನವೀಕರಿಸದ ಹೊರತು <ns1:g id="APP_NAME">%1$s</ns1:g> ರನ್ ಆಗುವುದಿಲ್ಲ."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play ಸೇವೆಗಳನ್ನು ಅಪ್‌ಡೇಟ್‌ ಮಾಡಿ"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ಪ್ರಸ್ತುತ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತಿರುವ <ns1:g id="APP_NAME">%1$s</ns1:g> ರನ್ ಆಗುವುದಿಲ್ಲ."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play ಸೇವೆಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play ಸೇವೆಗಳ ಹೊಸ ಆವೃತ್ತಿ ಅಗತ್ಯವಿದೆ. ಸದ್ಯದಲ್ಲೇ ಅದು ತಾನಾಗಿಯೇ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತದೆ."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"ಫೋನ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ಸೈನ್ ಇನ್"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google ಮೂಲಕ ಸೈನ್ ಇನ್ ಮಾಡಿ"</string>
+    <string name="dgts__call_me">ನನಗೆ ಕರೆ ಮಾಡಿ</string>
+    <string name="dgts__calling">ಕರೆ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+    <string name="dgts__confirmation_code">ದೃಢೀಕರಣ ಕೋಡ್</string>
+    <string name="dgts__confirmation_edit_hint">ನಾವು ನಿಮಗೆ ಕಳುಹಿಸಿರುವ 6-ಅಂಕೆಯ ಕೋಡ್ ನಮೂದಿಸಿ</string>
+    <string name="dgts__confirmation_error">ನಿಮ್ಮ ದೂರವಾಣಿ ಸಂಖ್ಯೆಯನ್ನು ದೃಢೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="dgts__confirmation_error_alternative">ಕ್ಷಮಿಸಿ, ನಿಮಗೆ ದೃಢೀಕರಣ ಕೋಡ್ ಕಳುಹಿಸುವಲ್ಲಿ ನಮಗೆ ತೊಂದರೆಯುಂಟಾಗಿದೆ.</string>
+    <string name="dgts__confirmation_expired">ಈ ಕೋಡ್ ಅವಧಿ ಮೀರಿದೆ. ದಯವಿಟ್ಟು ದೃಢೀಕರಣ ಕೋಡ್ ಮರುಕಳುಹಿಸಿ.</string>
+    <string name="dgts__continue">ಮುಂದುವರಿಸು</string>
+    <string name="dgts__create_account">ಖಾತೆಯನ್ನು ರಚಿಸಿ</string>
+    <string name="dgts__digits_logo_desc">digits ಲೋಗೋ ಐಕಾನ್</string>
+    <string name="dgts__digits_logo_name_desc">digits ಲೋಗೋ ಹೆಸರು</string>
+    <string name="dgts__dismiss">ವಜಾಗೊಳಿಸು</string>
+    <string name="dgts__done">ಮುಗಿದಿದೆ</string>
+    <string name="dgts__email_request_edit_hint">ಇಮೇಲ್ ವಿಳಾಸ</string>
+    <string name="dgts__email_request_title">ಇಮೇಲ್ ವಿಳಾಸ ನಮೂದಿಸಿ</string>
+    <string name="dgts__find_your_friends">ನಿಮ್ಮ ಸ್ನೇಹಿತರನ್ನು ಹುಡುಕಿ</string>
+    <string name="dgts__image_header_description">ಲಾಗಿನ್‌ಗಾಗಿ ಇಮೇಜ್ ಶೀರ್ಷಿಕೆ</string>
+    <string name="dgts__invalid_email">ಅಮಾನ್ಯ ಇಮೇಲ್. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸು</string>
+    <string name="dgts__login_digits_text">ನನ್ನ ದೂರವಾಣಿ ಸಂಖ್ಯೆ ಬಳಸು</string>
+    <string name="dgts__network_error">ದಯವಿಟ್ಟು ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="dgts__not_now">ಈಗ ಅಲ್ಲ</string>
+    <string name="dgts__okay">ಸರಿ</string>
+    <string name="dgts__phone_number_edit_hint">ನಿಮ್ಮ ಸಂಖ್ಯೆ</string>
+    <string name="dgts__phone_number_text">ನಿಮ್ಮ ದೂರವಾಣಿ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ</string>
+    <string name="dgts__pin_code_verification_title">2-ಹಂತದ ಪರಿಶೀಲನಾ ಕೋಡ್ ನಮೂದಿಸಿ</string>
+    <string name="dgts__resend_confirmation_button_code">ಕೋಡ್ ಪುನಃ ಕಳುಹಿಸಿ</string>
+    <string name="dgts__resend_confirmation_text">ದೃಢೀಕರಣ ಕೋಡ್ ಪುನಃ ಕಳುಹಿಸಿ</string>
+    <string name="dgts__send_confirmation_code">ದೃಢೀಕರಣ ಸಂಕೇತ ಕಳುಹಿಸಿ</string>
+    <string name="dgts__sending">ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="dgts__success_desc">ಯಶಸ್ಸಿನ ಐಕಾನ್</string>
+    <string name="dgts__terms_email_request">ಮೇಲೆ ಇರುವ %1$sಮುಂದುವರಿಸು%1$s ತಟ್ಟುವ ಮೂಲಕ, ನೀವು ಇದನ್ನು ನಿಮ್ಮ Digits ಖಾತೆಗೆ ಸೇರಿಸುತ್ತೀರಿ. ಈ ಆಪ್ ಮತ್ತು ನಿಮ್ಮ Digits ಖಾತೆ%5$s ಅಲ್ಲಿ ಪಟ್ಟಿ ಮಾಡಲಾಗಿರುವ %7$sಎಲ್ಲಾ ಆಪ್‌ಗಳು ಈ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಪ್ರವೇಶಿಸಬಲ್ಲವು ಮತ್ತು ಅದರ ಬಳಕೆದಾರರು ನಿಮ್ಮನ್ನು ಇಮೇಲ್ ಮೂಲಕ ಕಂಡು ಹಿಡಿಯಬಹುದು.</string>
+    <string name="dgts__terms_text">ಮೇಲೆ ಇರುವ %1$sದೃಢೀಕರಣ ಕೋಡ್ ಕಳುಹಿಸಿ%1$s ತಟ್ಟುವ ಮೂಲಕ, %6$sTwitter ನಿಂದ Digits%5$s ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ದೃಢೀಕರಿಸಲು ಒಂದು ಎಸ್‌ಎಮ್‍ಎಸ್ ಕಳುಹಿಸುತ್ತದೆ. ಹೊಸ ಎಸ್‌ಎಮ್‌ಎಸ್ ಅಥವಾ ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ದೃಢೀಕರಿಸಲು \"ನನಗೆ ಕರೆಮಾಡು\" ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಮುಂದಿನ ಪರದೆಯಲ್ಲಿ ನೀವು \"ಕೋಡ್ ಮರುಕಳುಹಿಸಿ\" ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಬಹುದು. ಸಂದೇಶ, ಕರೆ ಮತ್ತು ಡೇಟಾ ದರಗಳು ಅನ್ವಯವಾಗುವುವು.</string>
+    <string name="dgts__terms_text_call_me">ಮೇಲೆ ಇರುವ %1$sನನಗೆ ಕರೆ ಮಾಡಿ%1$s ತಟ್ಟುವ ಮೂಲಕ, %6$sTwitter ನಿಂದ Digits%5$s ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ದೃಢೀಕರಿಸಲು ಒಂದು ಧ್ವನಿ ಕರೆಯನ್ನು ಕಳುಹಿಸುತ್ತದೆ. ಕರೆ ಮತ್ತು ಡೇಟಾ ದರಗಳು ಅನ್ವಯವಾಗುವುವು.</string>
+    <string name="dgts__terms_text_create">ಮೇಲೆ ಇರುವ %1$sಖಾತೆ ರಚಿಸಿ%1$s ತಟ್ಟುವ ಮೂಲಕ, ನೀವು %6$sTwitter ನಿಂದ Digits%5$s,ನ %8$sಸೇವಾ ನಿಯಮಗಳು%5$s, %9$sಗೌಪ್ಯತಾ ನೀತಿ%5$s, ಮತ್ತು %10$sಕುಕೀಗಳ ಬಳಕೆ%5$s ಯನ್ನು ಮಾಡಲು, %4$s ಜೊತೆಗೆ ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲು, ಮತ್ತು %4$s ನ ಇತರೆ ಬಳಕೆದಾರರು ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡು ಹಿಡಿಯಲು ನೀವು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದೀರಿ.</string>
+    <string name="dgts__terms_text_sign_in">ಮೇಲೆ ಇರುವ %1$sಮುಂದುವರಿಸಿ%1$s ತಟ್ಟುವ ಮೂಲಕ, ನಿಮ್ಮ %7$sDigits ಫೋನ್ ಸಂಖ್ಯೆ ಮತ್ತು/ಅಥವಾ ಇಮೇಲ್ ವಿಳಾಸ%5$sವನ್ನು %4$s ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಲಾಗುವುದು ಮತ್ತು %4$s ನ ಇತರೆ ಬಳಕೆದಾರರು ನಿಮ್ಮನ್ನು ಫೋನ್ ಸಂಖ್ಯೆ ಮತ್ತು/ಅಥವಾ ಇಮೇಲ್ ಮೂಲಕ ಕಂಡು ಹಿಡಿಯಬಹುದು.</string>
+    <string name="dgts__terms_text_updated">ಮೇಲೆ ಇರುವ %1$sಮುಂದುವರಿಸಿ%1$s ತಟ್ಟುವ ಮೂಲಕ, ನೀವು %6$sTwitter ನಿಂದ Digits%5$s,ನ %8$sಸೇವಾ ನಿಯಮಗಳು%5$s, %9$sಗೌಪ್ಯತಾ ನೀತಿ%5$s, ಮತ್ತು %10$sಕುಕೀಗಳ ಬಳಕೆ%5$s ಯನ್ನು ಮಾಡಲು, %7$sDigits ಪೋನ್ ಸಂಖ್ಯೆ ಮತ್ತು/ಅಥವಾ ಇಮೇಲ್ ವಿಳಾಸ%5$sವನ್ನು %4$s ಜೊತೆಗೆ ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಿದ್ದೀರಿ. %4$s ನ ಇತರೆ ಬಳಕೆದಾರರು ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆ/ ಅಥವಾ ಇಮೇಲ್ ಮೂಲಕ ನಿಮ್ಮನ್ನು ಕಂಡು ಹಿಡಿಯಬಹುದು.</string>
+    <string name="dgts__try_again">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸು</string>
+    <string name="dgts__try_again_confirmation">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಕೋಡ್ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="dgts__try_again_email">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಇಮೇಲ್ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="dgts__try_again_phone_number">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಂಖ್ಯೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="dgts__try_another_phone">ಒಂದು ವಿಭಿನ್ನ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="dgts__unsupported_operator_error">ಎಸ್‌ಎಮ್‌ಎಸ್ ಸಂದೇಶವನ್ನು ಈ ಸಂಖ್ಯೆಗೆ ಕಳುಹಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
+    <string name="dgts__upload_contacts">ನಿಮ್ಮ ಸ್ನೇಹಿತರಲ್ಲಿ ಯಾರು ಈ ಆಪ್ ಅನ್ನು ಬಳಸುತ್ತಾರೋ ಅವರನ್ನು ಹುಡುಕಲು Digits by Twitter ಅನ್ನು ಬಳಸುತ್ತೇವೆ. ಯಾವಾಗ ನೀವು ಸರಿ ಅನ್ನು ತಟ್ಟುತ್ತೀರೋ ಆಗ, ನಾವು ನಿಮ್ಮ ವಿಳಾಸ ಪುಸ್ತಕವನ್ನು Digits by Twitter ಗೆ ಅಪ್‌ಲೋಡ್ ಮಾಡುತ್ತೆವೆ ಮತ್ತು ನಿಮ್ಮನ್ನು ಪತ್ತೆ ಹಚ್ಚಲು ನಮ್ಮ  %1$s ನ ಇತರೆ ಬಳಕೆದಾರರಿಗೆ ಅಥವಾ %1$s ನ ಇತರೆ ಬಳಕೆದಾರರರಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತೇವೆ.</string>
+    <string name="dgts__verification_code">ಪರಿಶೀಲನಾ ಕೋಡ್</string>
+    <string name="dgts_pin_code_terms">ನೀವು ಈ ಹಿಂದೆ 2-ಹಂತದ ಪರಿಶೀಲನಾ ಕೋಡ್ ಅನ್ನು digits.com ನಲ್ಲಿ ಸೆಟ್ ಮಾಡಿದ್ದಿರಿ</string>
+    <string name="tw__allow_btn_txt">ಅನುಮತಿಸು</string>
+    <string name="tw__like_tweet">ಟ್ವೀಟ್ ಇಷ್ಟಪಡಿ</string>
+    <string name="tw__liked_tweet">ಇಷ್ಟಪಡಿ ರದ್ದುಮಾಡು</string>
+    <string name="tw__loading_tweet">ಟ್ವೀಟ್ ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="tw__login_btn_txt">Twitter ಜೊತೆಗೆ ಲಾಗ್ ಇನ್ ಆಗಿ</string>
+    <string name="tw__not_now_btn_txt">ಈಗ ಅಲ್ಲ</string>
+    <string name="tw__pause">ವಿರಾಮ</string>
+    <string name="tw__play">ಪ್ಲೇ</string>
+    <string name="tw__replay">ಮರುಪ್ಲೇ</string>
+    <string name="tw__retweeted_by_format">%1$s ಇಂದ ಮರುಟ್ವೀಟಿಸಲ್ಪಟ್ಟಿದೆ</string>
+    <string name="tw__share_content_format">ಪರಿಶೀಲಿಸಿ \@%1$s\'s ಟ್ವೀಟ್: https://twitter.com/%1$s/ಸ್ಥಿತಿ/%2$s</string>
+    <string name="tw__share_email_desc">ನಿಮ್ಮ Twitter ಖಾತೆಯ ಜೊತೆಗೆ ಸಂಯೋಜಿತವಾಗಿರುವ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಪ್ರವೇಶಿಸಲು %1$s ಗೆ ಅನುಮತಿಸಿ \@%2$s ಇದರಿಂದ %1$s ಅದನ್ನು ಅದರ ಗೌಪ್ಯತಾ ನೀತಿ ಪ್ರಕಾರ ಬಳಸಬಹುದು. ಉದಾಹರಣೆಗೆ, %1$s ನಿಮಗೆ ನವೀಕರಣಗಳನ್ನು ಮತ್ತು ಇತರ ಮಾಹಿತಿಯನ್ನು ಆ ವಿಳಾಸದಲ್ಲಿ ಕಳುಹಿಸಬಹುದು.</string>
+    <string name="tw__share_email_title">ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="tw__share_subject_format">%1$s (\@%2$s) ಇಂದ ಟ್ವೀಟ್</string>
+    <string name="tw__share_tweet">ಟ್ವೀಟ್ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+</resources>

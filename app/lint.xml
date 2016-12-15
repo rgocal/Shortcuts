@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="ContentDescription">
+        <ignore path="res/layout/snippet_list_row.xml" />
+    </issue>
+    <issue id="InlinedApi" severity="ignore" />
+    <issue id="RtlHardcoded">
+        <ignore path="res/layout/snippet_list_row.xml" />
+        <ignore path="res/layout/time_pick.xml" />
+    </issue>
+    <issue id="RtlSymmetry">
+        <ignore path="res/layout/snippet_list_row.xml" />
+    </issue>
+    <issue id="SdCardPath" severity="ignore" />
+</lint>

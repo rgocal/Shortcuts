@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\xml\\backup_agent.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\xml\\backup_agent.xml"
+    },
+    {
+        "merged": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting.xml",
+        "source": "X:\\ANDROID\\CODE_Android\\Shortcuts_ALPHA\\app\\src\\main\\res\\xml\\setting.xml"
+    }
+]

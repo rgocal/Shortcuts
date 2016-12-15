@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Digits_default" parent="@android:style/Theme.Material.Light">
+        <item name="dgts__accentColor">?android:attr/colorAccent</item>
+    </style>
+</resources>
